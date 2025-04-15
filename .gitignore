@@ -1,4 +1,5 @@
 Object_Detection_env/
 Data/*
+!Data/.gitkeep
 Object_detection_image.py
 .idea/
